@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8A26B427-9C1B-4A76-AAB5-2A599B50B565"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "246152BE-7A23-4F84-B3A9-83501F3A3E7C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DisappearingUnicorns/DetailsViewController.swift"
+            timestampString = "592099168.045557"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "DetailsViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66C4E699-E544-4960-B197-AAF64CF5B1EE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DisappearingUnicorns/DetailsViewController.swift"
+            timestampString = "592099168.045689"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "DetailsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "66C4E699-E544-4960-B197-AAF64CF5B1EE - 934c48d7669d8a6a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DisappearingUnicorns.DetailsViewController.photoView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "DisappearingUnicorns"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaskaransidhu/Desktop/CPSC/CPSC%20575/Assignments/Assignment%202/DisappearingUnicorns/DisappearingUnicorns/DetailsViewController.swift"
+                  timestampString = "591931964.769539"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  uuid = "66C4E699-E544-4960-B197-AAF64CF5B1EE - 4d812b916843b67e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DisappearingUnicorns.DetailsViewController.photoView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "DisappearingUnicorns"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaskaransidhu/Desktop/CPSC/CPSC%20575/Assignments/Assignment%202/DisappearingUnicorns/DisappearingUnicorns/DetailsViewController.swift"
+                  timestampString = "591931964.78827"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  uuid = "66C4E699-E544-4960-B197-AAF64CF5B1EE - 781798f67e566f6f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DisappearingUnicorns.DetailsViewController.photoView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "DisappearingUnicorns"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaskaransidhu/Desktop/CPSC/CPSC%20575/Assignments/Assignment%202/DisappearingUnicorns/DisappearingUnicorns/DetailsViewController.swift"
+                  timestampString = "591931964.790621"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "66C4E699-E544-4960-B197-AAF64CF5B1EE - 93a5a216ae50708f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DisappearingUnicorns.DetailsViewController.photoView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "DisappearingUnicorns"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaskaransidhu/Desktop/CPSC/CPSC%20575/Assignments/Assignment%202/DisappearingUnicorns/DisappearingUnicorns/DetailsViewController.swift"
+                  timestampString = "591931964.792918"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "66C4E699-E544-4960-B197-AAF64CF5B1EE - d64b2a7be0b8b440"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DisappearingUnicorns.DetailsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; DisappearingUnicorns.DetailsViewController"
+                  moduleName = "DisappearingUnicorns"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaskaransidhu/Desktop/CPSC/CPSC%20575/Assignments/Assignment%202/DisappearingUnicorns/DisappearingUnicorns/DetailsViewController.swift"
+                  timestampString = "591931964.795378"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "217">
+               </Location>
+               <Location
+                  uuid = "66C4E699-E544-4960-B197-AAF64CF5B1EE - 61b2240aafbcfc1b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DisappearingUnicorns.DetailsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DisappearingUnicorns.DetailsViewController&gt;"
+                  moduleName = "DisappearingUnicorns"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaskaransidhu/Desktop/CPSC/CPSC%20575/Assignments/Assignment%202/DisappearingUnicorns/DisappearingUnicorns/DetailsViewController.swift"
+                  timestampString = "591931964.798075"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "137">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D28EB60-9E31-425B-A6BC-C4F3B92578DA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DisappearingUnicorns/DetailsViewController.swift"
+            timestampString = "592099168.04576"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "DetailsViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CAF5A78-EDE2-46EF-AE42-A292CBCF6DC2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DisappearingUnicorns/DetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D016626D-9A6B-4246-B400-49267E8C3FCD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DisappearingUnicorns/SettingsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "updateAge(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
